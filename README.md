@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danish
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... python,c++
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...Dm me.
 
