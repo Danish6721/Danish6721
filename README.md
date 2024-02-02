@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danish
 - 👀 I’m interested in ... python,c++
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... python andC++.
 - 📫 How to reach me ...Dm me.
 
 <!---
